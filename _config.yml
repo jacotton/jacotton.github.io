@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "James Cotton"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "James Cotton"
+description              : &description "Researcher in parasite genomics at Wellcome Sanger Institute"
+url                      : https://jacotton.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "jacotton/jacotton.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "James Cotton"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  bio              : "Senior staff scientist leading research into evolutionary genomics of eukaryotic parasites"
+  location         : "Hinxton, Cambridge, UK"
+  employer         : "Wellcome Sanger Institute"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=%28Cotton+JA%5BAuthor%5D%29+NOT+%28Buret+AG%5BAuthor+%5D%29+NOT+%28arthroplasty%5BTitle%5D%29+NOT+continence%5BTitle"
+  googlescholar    : "https://scholar.google.com/citations?user=KZqq9BIAAAAJ"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "jacotton"
   google_plus      :
   keybase          :
   instagram        :
