@@ -18,7 +18,7 @@ I was involved in the earliest work on the genomics of *Leishmania* populations 
 *Leishmania* in Ethiopia
 ------------
 
-Working with some excellent Ethiopian collaborators () and in particular [Pascale Kropf](https://www.imperial.ac.uk/people/p.kropf) at Imperial college, London, we are using parasite genetics and RNA-seq of clinical samples to understand the pathogenesis and epidemiology of leishmaniasis  in Ethiopia, a uniquely interesting place for *Leishmania* research where a unique form of cutaneous leishmanaisis (CL), cause my *L. aethiopica* co-exists close to foci of VL due to two different genotypes of *L. dononvani*, which are separated by the East African rift valley. We have three on-going projects funded my the MRC and by a Wellcome fellowship awarded to [Yegnasew Takele Teferi] (https://www.researchgate.net/profile/Yegnasew_Takele) to work with Pascale.
+Working with some excellent Ethiopian collaborators () and in particular [Pascale Kropf](https://www.imperial.ac.uk/people/p.kropf) at Imperial college, London, we are using parasite genetics and RNA-seq of clinical samples to understand the pathogenesis and epidemiology of leishmaniasis  in Ethiopia, a uniquely interesting place for *Leishmania* research where a unique form of cutaneous leishmanaisis (CL), cause my *L. aethiopica* co-exists close to foci of VL due to two different genotypes of *L. dononvani*, which are separated by the East African rift valley. We have three on-going projects funded my the MRC and by a Wellcome fellowship awarded to [Yegnasew Takele Teferi](https://www.researchgate.net/profile/Yegnasew_Takele) to work with Pascale.
 
 
 genetics of anthelminthic drug resistance
